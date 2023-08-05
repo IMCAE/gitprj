@@ -1,0 +1,7 @@
+@extends('master')
+@section('change')
+	<h1>this is gallery page </h1>
+	<div class="footer" >  
+        @Copyright 2023- Your Choco Zone
+    </div>
+@endsection
